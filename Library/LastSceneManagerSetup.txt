@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Shodoloo3D.unity
+- path: Assets/Mike/Scenes/Room1.unity
   isLoaded: 1
   isActive: 1
